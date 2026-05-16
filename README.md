@@ -1,4 +1,4 @@
-# sales-prediction-report 
+# Sales Prediction Report
 
 1-Project Title:                                                                                               
 Sales Intelligence Report                                                                               
